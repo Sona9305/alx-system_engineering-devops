@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp holberton hello
+ln -s /bin/ls __ls__
